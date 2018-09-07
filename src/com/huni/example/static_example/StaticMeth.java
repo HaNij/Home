@@ -1,6 +1,6 @@
 package com.huni.example.static_example;
 
-
+// Смысл переопределения статических методов нет, т.к отстутвует полиморфизм
 class StaticMeth {
     public static void main(String[] args) {
         sA sa = new sA();
